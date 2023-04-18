@@ -7,7 +7,7 @@ This repository is a placeholder for an upcoming conference submission. The main
 
 **Conference:** 11th European Conference on Mobile Robots (2023)
 
-**Abstract:** _The abstract will be provided upon submission._
+**Abstract:** Autonomous industrial mobile robots need advanced perception capabilities to operate safely and human-compliantly in shared working environments. To achieve this high-level understanding of the mobile robots' surroundings, this paper investigates Multi-Task Learning approaches to process multiple tasks simultaneously and potentially improve the generalization performance. Our work alleviates the scarcity of datasets that are relevant for industrial settings by introducing and making publicly available a simulated warehouse dataset covering semantic segmentation, depth estimation and surface normals estimation tasks. We collect and examine numerous MTL task-balancing techniques for industrial mobile robot perception. Our experiments show that the performance of those approaches is very dependent on the considered dataset, which further highlights the value of introducing new relevant datasets.
 
 ## ⬇️ Dataset download
 
